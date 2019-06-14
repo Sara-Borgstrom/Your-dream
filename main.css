@@ -15,6 +15,14 @@ body {
   color: white;
 }
 
+.textTwo{
+  font-weight: lighter;
+  font-size: 20px;
+  letter-spacing: 2px;
+  margin-bottom: 0px;
+  color: white;
+}
+
 .inputSection{
   margin: 50px 0px 80px 0px;
   width: 400px;
