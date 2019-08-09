@@ -5,6 +5,8 @@ body {
   align-items: center;
   margin-top: 150px;
   background-image: url(phototop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .text {
@@ -49,4 +51,5 @@ input{
   justify-content: center;
   align-items: center;
   font-size: 35px;
+  color: white;
 }
