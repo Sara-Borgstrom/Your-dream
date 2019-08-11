@@ -6,7 +6,7 @@ body {
   margin-top: 150px;
   background-image: url(phototop.jpg);
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
 }
 
 .text {
